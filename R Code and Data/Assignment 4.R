@@ -1,8 +1,7 @@
-# Nathan J. Chan
-# STA 141A
-# Professor Ulle
-# November 2, 2018
 # Assignment 4
+# Nathan Chan
+# github.com/nathanjchan
+# nathanjchan2@gmail.com
 
 cl = readRDS("cl_apartments.rds")
 

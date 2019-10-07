@@ -1,7 +1,7 @@
 # Assignment 5
 # Nathan Chan
-# UC Davis STA 141A
-# Professor Ulle
+# github.com/nathanjchan
+# nathanjchan2@gmail.com
 
 library(stringr)
 library(ggplot2)

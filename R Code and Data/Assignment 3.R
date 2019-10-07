@@ -1,5 +1,7 @@
-# STA 141A Assignment 3
+# Assignment 3
 # Nathan Chan
+# github.com/nathanjchan
+# nathanjchan2@gmail.com
 
 cl = readRDS("cl_apartments.rds")
 
